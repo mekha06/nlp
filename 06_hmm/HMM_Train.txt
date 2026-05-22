@@ -1,0 +1,5 @@
+I/PRON drink/VERB water/NOUN
+She/PRON eats/VERB food/NOUN
+They/PRON play/VERB football/NOUN
+Water/NOUN is/VERB important/ADJ
+Drink/VERB water/NOUN daily/ADV
